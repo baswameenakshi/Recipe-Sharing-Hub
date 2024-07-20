@@ -1,0 +1,23 @@
+/* styles/tips.css */
+
+aside {
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/2023889963/display_1500/stock-photo-autumn-fall-baking-food-background-with-pumpkins-apples-nuts-and-seasonal-spices-on-white-2023889963.jpg'); /* Replace 'path/to/your/image.jpg' with the path to your image */
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  ol {
+    list-style-type: decimal;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
